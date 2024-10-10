@@ -20,11 +20,11 @@ Ensure you have the following installed on your machine:
    
 ### Access the Visualizations
 
-Run the command "python -m http.server" in root directory i.e. "visualize-d3"
+- Run the command "python -m http.server" in root directory i.e. "visualize-d3"
 
-To access the visualizations, open [Access Visualizations](http://localhost:8000) in your local browser after running the command.
+- To access the visualizations, open [Access Visualizations](http://localhost:8000) in your local browser after running the command.
 
-Click on files circlePacking_1k.html, circlePacking_5k.html, Treemap_1k.html, and Treemap_5k.html
+- Click on files circlePacking_1k.html, circlePacking_5k.html, Treemap_1k.html, and Treemap_5k.html
 
 ---
 
